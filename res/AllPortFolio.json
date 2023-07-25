@@ -1,0 +1,769 @@
+{
+  "abd": {
+    "name": "abd",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 5.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 482.2,
+        "investmentDate": "2022-11-29"
+      }
+    ]
+  },
+  "abc": {
+    "name": "abc",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 5.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.73,
+        "purchaseDate": "2022-11-11",
+        "noOfShares": 20.676108756332056,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 96.73,
+            "stockDate": "2022-11-11"
+          },
+          {
+            "noOfShares": 20.676108756332056,
+            "price": 96.73,
+            "stockDate": "2022-11-11"
+          }
+        ],
+        "sellDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 96.73,
+            "stockDate": "2022-11-11"
+          }
+        ],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 96.73,
+          "stockDate": "2022-11-11"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 90.5,
+        "purchaseDate": "2022-11-01",
+        "noOfShares": 11.049723756906078,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 11.049723756906078,
+            "price": 90.5,
+            "stockDate": "2022-11-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 11.049723756906078,
+          "price": 90.5,
+          "stockDate": "2022-11-01"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 88.65,
+        "purchaseDate": "2022-11-06",
+        "noOfShares": 11.280315848843767,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 11.280315848843767,
+            "price": 88.65,
+            "stockDate": "2022-11-06"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 11.280315848843767,
+          "price": 88.65,
+          "stockDate": "2022-11-06"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 482.2,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 483.65000000000003,
+        "investmentDate": "2022-11-11"
+      },
+      {
+        "totalMoneyInvested": 0.0,
+        "investmentDate": "2022-11-11"
+      },
+      {
+        "totalMoneyInvested": 1999.9999999999998,
+        "investmentDate": "2022-11-11"
+      },
+      {
+        "totalMoneyInvested": 1020.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 1020.0,
+        "investmentDate": "2022-11-06"
+      }
+    ]
+  },
+  "abs": {
+    "name": "abs",
+    "flexiblePortfolio": true,
+    "stocks": [],
+    "investmentDetailsList": []
+  },
+  "test": {
+    "name": "test",
+    "flexiblePortfolio": true,
+    "investmentDetailsList": []
+  },
+  "test123": {
+    "name": "test123",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 20.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "TSLA",
+        "purchasePrice": 180.83,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Tesla Inc",
+        "description": "Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla\u0027s current products include electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, as well as other related products and services. In 2020, Tesla had the highest sales in the plug-in and battery electric passenger car segments, capturing 16% of the plug-in market (which includes plug-in hybrids) and 23% of the battery-electric (purely electric) market. Through its subsidiary Tesla Energy, the company develops and is a major installer of solar photovoltaic energy generation systems in the United States. Tesla Energy is also one of the largest global suppliers of battery energy storage systems, with 3 GWh of battery storage supplied in 2020.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "MANUFACTURING",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 180.83,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 180.83,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "CSCO",
+        "purchasePrice": 48.28,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Cisco Systems Inc",
+        "description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, Webex, Jabber and Jasper, Cisco specializes in specific tech markets, such as the Internet of Things (IoT), domain security and energy management. On January 25, 2021, Cisco reincorporated in Delaware.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 48.28,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 48.28,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 92.42,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 20.0,
+        "name": "Amazon.com Inc",
+        "description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world\u0027s most valuable brand.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 92.42,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 92.42,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 94.17,
+        "purchaseDate": "2022-11-10",
+        "noOfShares": 10.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 94.17,
+            "stockDate": "2022-11-10"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 94.17,
+          "stockDate": "2022-11-10"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 90.5,
+        "purchaseDate": "2022-11-01",
+        "noOfShares": 22.099447513812155,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.524861878453039,
+            "price": 90.5,
+            "stockDate": "2022-11-01"
+          },
+          {
+            "noOfShares": 5.524861878453039,
+            "price": 90.5,
+            "stockDate": "2022-11-01"
+          },
+          {
+            "noOfShares": 11.049723756906078,
+            "price": 90.5,
+            "stockDate": "2022-11-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.524861878453039,
+          "price": 90.5,
+          "stockDate": "2022-11-01"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 228.17,
+        "purchaseDate": "2022-11-01",
+        "noOfShares": 4.382697111802604,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.191348555901302,
+            "price": 228.17,
+            "stockDate": "2022-11-01"
+          },
+          {
+            "noOfShares": 2.191348555901302,
+            "price": 228.17,
+            "stockDate": "2022-11-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.191348555901302,
+          "price": 228.17,
+          "stockDate": "2022-11-01"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.25,
+        "purchaseDate": "2022-11-28",
+        "noOfShares": 5.194805194805195,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.194805194805195,
+            "price": 96.25,
+            "stockDate": "2022-11-28"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.194805194805195,
+          "price": 96.25,
+          "stockDate": "2022-11-28"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 241.76,
+        "purchaseDate": "2022-11-28",
+        "noOfShares": 2.0681667769688947,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.0681667769688947,
+            "price": 241.76,
+            "stockDate": "2022-11-28"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.0681667769688947,
+          "price": 241.76,
+          "stockDate": "2022-11-28"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 6068.300000000001,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 961.7,
+        "investmentDate": "2022-11-10"
+      },
+      {
+        "totalMoneyInvested": 520.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 520.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 520.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 520.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 500.0,
+        "investmentDate": "2022-11-28"
+      },
+      {
+        "totalMoneyInvested": 499.99999999999994,
+        "investmentDate": "2022-11-28"
+      },
+      {
+        "totalMoneyInvested": 1010.0,
+        "investmentDate": "2022-11-01"
+      }
+    ]
+  },
+  "hehe": {
+    "name": "hehe",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 20.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 240.33,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Microsoft Corporation",
+        "description": "Microsoft Corporation is an American multinational technology company which produces computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world\u0027s largest software maker by revenue as of 2016. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Amazon, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 240.33,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 240.33,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 92.42,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 50.0,
+        "name": "Amazon.com Inc",
+        "description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world\u0027s most valuable brand.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 50.0,
+            "price": 92.42,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 50.0,
+          "price": 92.42,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "CSCO",
+        "purchasePrice": 48.28,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Cisco Systems Inc",
+        "description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, Webex, Jabber and Jasper, Cisco specializes in specific tech markets, such as the Internet of Things (IoT), domain security and energy management. On January 25, 2021, Cisco reincorporated in Delaware.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 48.28,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 48.28,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 96.79,
+        "purchaseDate": "2022-11-01",
+        "noOfShares": 20.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 96.79,
+            "stockDate": "2022-11-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 96.79,
+          "stockDate": "2022-11-01"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 9435.9,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 1955.8000000000002,
+        "investmentDate": "2022-11-01"
+      }
+    ]
+  },
+  "fjejwf": {
+    "name": "fjejwf",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 141.17,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 50.0,
+        "name": "Apple Inc",
+        "description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world\u0027s largest technology company by revenue (totalling $274.5 billion in 2020) and, since January 2021, the world\u0027s most valuable company. As of 2021, Apple is the world\u0027s fourth-largest PC vendor by unit sales, and fourth-largest smartphone manufacturer. It is one of the Big Five American information technology companies, along with Amazon, Google, Microsoft, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 50.0,
+            "price": 141.17,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 50.0,
+          "price": 141.17,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "TSLA",
+        "purchasePrice": 180.83,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 50.0,
+        "name": "Tesla Inc",
+        "description": "Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla\u0027s current products include electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, as well as other related products and services. In 2020, Tesla had the highest sales in the plug-in and battery electric passenger car segments, capturing 16% of the plug-in market (which includes plug-in hybrids) and 23% of the battery-electric (purely electric) market. Through its subsidiary Tesla Energy, the company develops and is a major installer of solar photovoltaic energy generation systems in the United States. Tesla Energy is also one of the largest global suppliers of battery energy storage systems, with 3 GWh of battery storage supplied in 2020.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "MANUFACTURING",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 50.0,
+            "price": 180.83,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 50.0,
+          "price": 180.83,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 240.33,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Microsoft Corporation",
+        "description": "Microsoft Corporation is an American multinational technology company which produces computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world\u0027s largest software maker by revenue as of 2016. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Amazon, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 240.33,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 240.33,
+          "stockDate": "2022-11-29"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 19477.699999999997,
+        "investmentDate": "2022-11-29"
+      }
+    ]
+  },
+  "deepthi1": {
+    "name": "deepthi1",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 20.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 141.17,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 30.0,
+        "name": "Apple Inc",
+        "description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world\u0027s largest technology company by revenue (totalling $274.5 billion in 2020) and, since January 2021, the world\u0027s most valuable company. As of 2021, Apple is the world\u0027s fourth-largest PC vendor by unit sales, and fourth-largest smartphone manufacturer. It is one of the Big Five American information technology companies, along with Amazon, Google, Microsoft, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 30.0,
+            "price": 141.17,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 30.0,
+          "price": 141.17,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 240.33,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 40.0,
+        "name": "Microsoft Corporation",
+        "description": "Microsoft Corporation is an American multinational technology company which produces computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world\u0027s largest software maker by revenue as of 2016. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Amazon, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 40.0,
+            "price": 240.33,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 40.0,
+          "price": 240.33,
+          "stockDate": "2022-11-29"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 15777.1,
+        "investmentDate": "2022-11-29"
+      }
+    ]
+  },
+  "abcd": {
+    "name": "abcd",
+    "flexiblePortfolio": true,
+    "stocks": [],
+    "investmentDetailsList": []
+  }
+}

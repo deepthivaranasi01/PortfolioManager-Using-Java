@@ -1,0 +1,2253 @@
+{
+  "PF4Flexible": {
+    "name": "PF4Flexible",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.99,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 4.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          },
+          {
+            "noOfShares": 1.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [
+          {
+            "noOfShares": 1.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          },
+          {
+            "noOfShares": 1.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.99,
+          "stockDate": "2022-11-16"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 97.12,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Amazon.com Inc",
+        "description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world\u0027s most valuable brand.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 97.12,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 97.12,
+          "stockDate": "2022-11-16"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.73,
+        "purchaseDate": "2022-11-11",
+        "noOfShares": 10.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 96.73,
+            "stockDate": "2022-11-11"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 96.73,
+          "stockDate": "2022-11-11"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 94.17,
+        "purchaseDate": "2022-11-10",
+        "noOfShares": 12.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 12.0,
+            "price": 94.17,
+            "stockDate": "2022-11-10"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 12.0,
+          "price": 94.17,
+          "stockDate": "2022-11-10"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 103.85,
+        "purchaseDate": "2022-09-19",
+        "noOfShares": 12.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 12.0,
+            "price": 103.85,
+            "stockDate": "2022-09-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 12.0,
+          "price": 103.85,
+          "stockDate": "2022-09-19"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 973.55,
+        "investmentDate": "2022-11-16"
+      },
+      {
+        "totalMoneyInvested": 960.3000000000001,
+        "investmentDate": "2022-11-11"
+      },
+      {
+        "totalMoneyInvested": 1123.04,
+        "investmentDate": "2022-11-10"
+      },
+      {
+        "totalMoneyInvested": 91.99,
+        "investmentDate": "2022-11-16"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-11-16"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-11-16"
+      },
+      {
+        "totalMoneyInvested": 1239.1999999999998,
+        "investmentDate": "2022-09-19"
+      }
+    ]
+  },
+  "PF1InFlexible": {
+    "name": "PF1InFlexible",
+    "flexiblePortfolio": false,
+    "stocks": [
+      {
+        "ticker": "NFLX",
+        "purchasePrice": 306.02,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Netflix Inc",
+        "description": "Netflix, Inc. is an American over-the-top content platform and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company\u0027s primary business is a subscription-based streaming service offering online streaming from a library of films and television series, including those produced in-house.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 306.02,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 306.02,
+          "stockDate": "2022-11-16"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.99,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.99,
+          "stockDate": "2022-11-16"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 97.12,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Amazon.com Inc",
+        "description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world\u0027s most valuable brand.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 97.12,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 97.12,
+          "stockDate": "2022-11-16"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 2503.65,
+        "investmentDate": "2022-11-16"
+      }
+    ]
+  },
+  "SampleTest": {
+    "name": "SampleTest",
+    "flexiblePortfolio": false,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.99,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.99,
+          "stockDate": "2022-11-16"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 487.95,
+        "investmentDate": "2022-11-16"
+      }
+    ]
+  },
+  "lala": {
+    "name": "lala",
+    "flexiblePortfolio": true,
+    "stocks": [],
+    "investmentDetailsList": []
+  },
+  "hhh": {
+    "name": "hhh",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 37.2883487007544,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          },
+          {
+            "noOfShares": 20.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          },
+          {
+            "noOfShares": 17.2883487007544,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "MSFT",
+        "purchasePrice": 240.33,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 20.0,
+        "name": "Microsoft Corporation",
+        "description": "Microsoft Corporation is an American multinational technology company which produces computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world\u0027s largest software maker by revenue as of 2016. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Amazon, and Facebook.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 20.0,
+            "price": 240.33,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 20.0,
+          "price": 240.33,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 95.44,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 57.2883487007544,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 30.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          },
+          {
+            "noOfShares": 20.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          },
+          {
+            "noOfShares": 17.2883487007544,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 95.44,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "lastPurchaseDetails": {
+          "noOfShares": 30.0,
+          "price": 95.44,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "CSCO",
+        "purchasePrice": 48.28,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 10.0,
+        "name": "Cisco Systems Inc",
+        "description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, Webex, Jabber and Jasper, Cisco specializes in specific tech markets, such as the Internet of Things (IoT), domain security and energy management. On January 25, 2021, Cisco reincorporated in Delaware.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 48.28,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 48.28,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 141.17,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 11.688035701636325,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 11.688035701636325,
+            "price": 141.17,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 11.688035701636325,
+          "price": 141.17,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 92.42,
+        "purchaseDate": "2022-11-29",
+        "noOfShares": 18.394286950876435,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 18.394286950876435,
+            "price": 92.42,
+            "stockDate": "2022-11-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 18.394286950876435,
+          "price": 92.42,
+          "stockDate": "2022-11-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 3023.87,
+        "purchaseDate": "2022-02-01",
+        "noOfShares": 1.1574571658173136,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 1.1574571658173136,
+            "price": 3023.87,
+            "stockDate": "2022-02-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 1.1574571658173136,
+          "price": 3023.87,
+          "stockDate": "2022-02-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 174.61,
+        "purchaseDate": "2022-02-01",
+        "noOfShares": 8.590573277590057,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 8.590573277590057,
+            "price": 174.61,
+            "stockDate": "2022-02-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 8.590573277590057,
+          "price": 174.61,
+          "stockDate": "2022-02-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 3022.84,
+        "purchaseDate": "2022-03-01",
+        "noOfShares": 1.1578515568141217,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 1.1578515568141217,
+            "price": 3022.84,
+            "stockDate": "2022-03-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 1.1578515568141217,
+          "price": 3022.84,
+          "stockDate": "2022-03-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 163.2,
+        "purchaseDate": "2022-03-01",
+        "noOfShares": 9.191176470588236,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 9.191176470588236,
+            "price": 163.2,
+            "stockDate": "2022-03-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 9.191176470588236,
+          "price": 163.2,
+          "stockDate": "2022-03-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 3271.2,
+        "purchaseDate": "2022-04-01",
+        "noOfShares": 1.069943751528491,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 1.069943751528491,
+            "price": 3271.2,
+            "stockDate": "2022-04-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 1.069943751528491,
+          "price": 3271.2,
+          "stockDate": "2022-04-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 174.31,
+        "purchaseDate": "2022-04-01",
+        "noOfShares": 8.605358269749297,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 8.605358269749297,
+            "price": 174.31,
+            "stockDate": "2022-04-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 8.605358269749297,
+          "price": 174.31,
+          "stockDate": "2022-04-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 2490.0,
+        "purchaseDate": "2022-05-01",
+        "noOfShares": 1.4056224899598393,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 1.4056224899598393,
+            "price": 2490.0,
+            "stockDate": "2022-05-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 1.4056224899598393,
+          "price": 2490.0,
+          "stockDate": "2022-05-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 157.96,
+        "purchaseDate": "2022-05-01",
+        "noOfShares": 9.496074955684984,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 9.496074955684984,
+            "price": 157.96,
+            "stockDate": "2022-05-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 9.496074955684984,
+          "price": 157.96,
+          "stockDate": "2022-05-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 2433.68,
+        "purchaseDate": "2022-06-01",
+        "noOfShares": 1.4381512770783342,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 1.4381512770783342,
+            "price": 2433.68,
+            "stockDate": "2022-06-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 1.4381512770783342,
+          "price": 2433.68,
+          "stockDate": "2022-06-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 148.71,
+        "purchaseDate": "2022-06-01",
+        "noOfShares": 10.086746015735324,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.086746015735324,
+            "price": 148.71,
+            "stockDate": "2022-06-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.086746015735324,
+          "price": 148.71,
+          "stockDate": "2022-06-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 109.56,
+        "purchaseDate": "2022-07-01",
+        "noOfShares": 31.945965680905438,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 31.945965680905438,
+            "price": 109.56,
+            "stockDate": "2022-07-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 31.945965680905438,
+          "price": 109.56,
+          "stockDate": "2022-07-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 138.93,
+        "purchaseDate": "2022-07-01",
+        "noOfShares": 10.796804145972791,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.796804145972791,
+            "price": 138.93,
+            "stockDate": "2022-07-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.796804145972791,
+          "price": 138.93,
+          "stockDate": "2022-07-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 135.39,
+        "purchaseDate": "2022-08-01",
+        "noOfShares": 25.851244552773473,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 25.851244552773473,
+            "price": 135.39,
+            "stockDate": "2022-08-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 25.851244552773473,
+          "price": 135.39,
+          "stockDate": "2022-08-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 161.51,
+        "purchaseDate": "2022-08-01",
+        "noOfShares": 9.28735062844406,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 9.28735062844406,
+            "price": 161.51,
+            "stockDate": "2022-08-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 9.28735062844406,
+          "price": 161.51,
+          "stockDate": "2022-08-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 127.82,
+        "purchaseDate": "2022-09-01",
+        "noOfShares": 27.38225629791895,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 27.38225629791895,
+            "price": 127.82,
+            "stockDate": "2022-09-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 27.38225629791895,
+          "price": 127.82,
+          "stockDate": "2022-09-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 157.96,
+        "purchaseDate": "2022-09-01",
+        "noOfShares": 9.496074955684984,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 9.496074955684984,
+            "price": 157.96,
+            "stockDate": "2022-09-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 9.496074955684984,
+          "price": 157.96,
+          "stockDate": "2022-09-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 115.88,
+        "purchaseDate": "2022-10-01",
+        "noOfShares": 30.203658957542288,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 30.203658957542288,
+            "price": 115.88,
+            "stockDate": "2022-10-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 30.203658957542288,
+          "price": 115.88,
+          "stockDate": "2022-10-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 142.45,
+        "purchaseDate": "2022-10-01",
+        "noOfShares": 10.53001053001053,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.53001053001053,
+            "price": 142.45,
+            "stockDate": "2022-10-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.53001053001053,
+          "price": 142.45,
+          "stockDate": "2022-10-01"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 9127.0,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 1928.8,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 20.0,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 1655.0,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 1654.9999999999998,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 1705.0000000000002,
+        "investmentDate": "2022-11-29"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-02-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-02-01"
+      },
+      {
+        "totalMoneyInvested": 3504.9999999999995,
+        "investmentDate": "2022-03-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-03-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-04-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-04-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-05-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-05-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-06-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-06-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-07-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-07-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-08-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-08-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-09-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-09-01"
+      },
+      {
+        "totalMoneyInvested": 3505.0,
+        "investmentDate": "2022-10-01"
+      },
+      {
+        "totalMoneyInvested": 1505.0,
+        "investmentDate": "2022-10-01"
+      }
+    ]
+  },
+  "MyPF1": {
+    "name": "MyPF1",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 2181.62,
+        "purchaseDate": "2022-07-01",
+        "noOfShares": 0.36669997524775166,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 0.36669997524775166,
+            "price": 2181.62,
+            "stockDate": "2022-07-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 0.36669997524775166,
+          "price": 2181.62,
+          "stockDate": "2022-07-01"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 109.56,
+        "purchaseDate": "2022-07-01",
+        "noOfShares": 7.301935012778386,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.301935012778386,
+            "price": 109.56,
+            "stockDate": "2022-07-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.301935012778386,
+          "price": 109.56,
+          "stockDate": "2022-07-01"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 138.93,
+        "purchaseDate": "2022-07-01",
+        "noOfShares": 2.879147772259411,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.879147772259411,
+            "price": 138.93,
+            "stockDate": "2022-07-01"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.879147772259411,
+          "price": 138.93,
+          "stockDate": "2022-07-01"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 2330.45,
+        "purchaseDate": "2022-07-11",
+        "noOfShares": 0.34328134051363474,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 0.34328134051363474,
+            "price": 2330.45,
+            "stockDate": "2022-07-11"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 0.34328134051363474,
+          "price": 2330.45,
+          "stockDate": "2022-07-11"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 111.75,
+        "purchaseDate": "2022-07-11",
+        "noOfShares": 7.158836689038031,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.158836689038031,
+            "price": 111.75,
+            "stockDate": "2022-07-11"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.158836689038031,
+          "price": 111.75,
+          "stockDate": "2022-07-11"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 144.87,
+        "purchaseDate": "2022-07-11",
+        "noOfShares": 2.761096155173604,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.761096155173604,
+            "price": 144.87,
+            "stockDate": "2022-07-11"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.761096155173604,
+          "price": 144.87,
+          "stockDate": "2022-07-11"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 115.04,
+        "purchaseDate": "2022-07-21",
+        "noOfShares": 6.954102920723226,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.954102920723226,
+            "price": 115.04,
+            "stockDate": "2022-07-21"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.954102920723226,
+          "price": 115.04,
+          "stockDate": "2022-07-21"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 124.63,
+        "purchaseDate": "2022-07-21",
+        "noOfShares": 6.419000240712509,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.419000240712509,
+            "price": 124.63,
+            "stockDate": "2022-07-21"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.419000240712509,
+          "price": 124.63,
+          "stockDate": "2022-07-21"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 155.35,
+        "purchaseDate": "2022-07-21",
+        "noOfShares": 2.574831026713872,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.574831026713872,
+            "price": 155.35,
+            "stockDate": "2022-07-21"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.574831026713872,
+          "price": 155.35,
+          "stockDate": "2022-07-21"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 115.48,
+        "purchaseDate": "2022-07-31",
+        "noOfShares": 6.927606511950121,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.927606511950121,
+            "price": 115.48,
+            "stockDate": "2022-07-31"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.927606511950121,
+          "price": 115.48,
+          "stockDate": "2022-07-31"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 135.39,
+        "purchaseDate": "2022-07-31",
+        "noOfShares": 5.908855897776793,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.908855897776793,
+            "price": 135.39,
+            "stockDate": "2022-07-31"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.908855897776793,
+          "price": 135.39,
+          "stockDate": "2022-07-31"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 161.51,
+        "purchaseDate": "2022-07-31",
+        "noOfShares": 2.4766268342517495,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.4766268342517495,
+            "price": 161.51,
+            "stockDate": "2022-07-31"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.4766268342517495,
+          "price": 161.51,
+          "stockDate": "2022-07-31"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 120.65,
+        "purchaseDate": "2022-08-10",
+        "noOfShares": 6.63075010360547,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.63075010360547,
+            "price": 120.65,
+            "stockDate": "2022-08-10"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.63075010360547,
+          "price": 120.65,
+          "stockDate": "2022-08-10"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 142.69,
+        "purchaseDate": "2022-08-10",
+        "noOfShares": 5.606559674819539,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.606559674819539,
+            "price": 142.69,
+            "stockDate": "2022-08-10"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.606559674819539,
+          "price": 142.69,
+          "stockDate": "2022-08-10"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 169.24,
+        "purchaseDate": "2022-08-10",
+        "noOfShares": 2.3635074450484517,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.3635074450484517,
+            "price": 169.24,
+            "stockDate": "2022-08-10"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.3635074450484517,
+          "price": 169.24,
+          "stockDate": "2022-08-10"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 115.07,
+        "purchaseDate": "2022-08-20",
+        "noOfShares": 6.9522899104892675,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.9522899104892675,
+            "price": 115.07,
+            "stockDate": "2022-08-20"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.9522899104892675,
+          "price": 115.07,
+          "stockDate": "2022-08-20"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 133.22,
+        "purchaseDate": "2022-08-20",
+        "noOfShares": 6.005104338687885,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.005104338687885,
+            "price": 133.22,
+            "stockDate": "2022-08-20"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.005104338687885,
+          "price": 133.22,
+          "stockDate": "2022-08-20"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 167.57,
+        "purchaseDate": "2022-08-20",
+        "noOfShares": 2.387062123291759,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.387062123291759,
+            "price": 167.57,
+            "stockDate": "2022-08-20"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.387062123291759,
+          "price": 167.57,
+          "stockDate": "2022-08-20"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 109.91,
+        "purchaseDate": "2022-08-30",
+        "noOfShares": 7.27868255845692,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.27868255845692,
+            "price": 109.91,
+            "stockDate": "2022-08-30"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.27868255845692,
+          "price": 109.91,
+          "stockDate": "2022-08-30"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 128.73,
+        "purchaseDate": "2022-08-30",
+        "noOfShares": 6.214557601180767,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.214557601180767,
+            "price": 128.73,
+            "stockDate": "2022-08-30"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.214557601180767,
+          "price": 128.73,
+          "stockDate": "2022-08-30"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 158.91,
+        "purchaseDate": "2022-08-30",
+        "noOfShares": 2.5171480712352903,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.5171480712352903,
+            "price": 158.91,
+            "stockDate": "2022-08-30"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.5171480712352903,
+          "price": 158.91,
+          "stockDate": "2022-08-30"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 111.78,
+        "purchaseDate": "2022-09-09",
+        "noOfShares": 7.1569153694757555,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.1569153694757555,
+            "price": 111.78,
+            "stockDate": "2022-09-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.1569153694757555,
+          "price": 111.78,
+          "stockDate": "2022-09-09"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 133.27,
+        "purchaseDate": "2022-09-09",
+        "noOfShares": 6.002851354393337,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.002851354393337,
+            "price": 133.27,
+            "stockDate": "2022-09-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.002851354393337,
+          "price": 133.27,
+          "stockDate": "2022-09-09"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 157.37,
+        "purchaseDate": "2022-09-09",
+        "noOfShares": 2.5417805172523353,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.5417805172523353,
+            "price": 157.37,
+            "stockDate": "2022-09-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.5417805172523353,
+          "price": 157.37,
+          "stockDate": "2022-09-09"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 103.85,
+        "purchaseDate": "2022-09-19",
+        "noOfShares": 7.703418391911411,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.703418391911411,
+            "price": 103.85,
+            "stockDate": "2022-09-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.703418391911411,
+          "price": 103.85,
+          "stockDate": "2022-09-19"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 124.66,
+        "purchaseDate": "2022-09-19",
+        "noOfShares": 6.417455478902616,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.417455478902616,
+            "price": 124.66,
+            "stockDate": "2022-09-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.417455478902616,
+          "price": 124.66,
+          "stockDate": "2022-09-19"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 154.48,
+        "purchaseDate": "2022-09-19",
+        "noOfShares": 2.589331952356292,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.589331952356292,
+            "price": 154.48,
+            "stockDate": "2022-09-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.589331952356292,
+          "price": 154.48,
+          "stockDate": "2022-09-19"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.09,
+        "purchaseDate": "2022-09-29",
+        "noOfShares": 8.155775308390254,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 8.155775308390254,
+            "price": 98.09,
+            "stockDate": "2022-09-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 8.155775308390254,
+          "price": 98.09,
+          "stockDate": "2022-09-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 114.8,
+        "purchaseDate": "2022-09-29",
+        "noOfShares": 6.968641114982579,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.968641114982579,
+            "price": 114.8,
+            "stockDate": "2022-09-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.968641114982579,
+          "price": 114.8,
+          "stockDate": "2022-09-29"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 142.48,
+        "purchaseDate": "2022-09-29",
+        "noOfShares": 2.8074115665356545,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.8074115665356545,
+            "price": 142.48,
+            "stockDate": "2022-09-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.8074115665356545,
+          "price": 142.48,
+          "stockDate": "2022-09-29"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.71,
+        "purchaseDate": "2022-10-09",
+        "noOfShares": 8.104548677945498,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 8.104548677945498,
+            "price": 98.71,
+            "stockDate": "2022-10-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 8.104548677945498,
+          "price": 98.71,
+          "stockDate": "2022-10-09"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 113.67,
+        "purchaseDate": "2022-10-09",
+        "noOfShares": 7.037916776634116,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.037916776634116,
+            "price": 113.67,
+            "stockDate": "2022-10-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.037916776634116,
+          "price": 113.67,
+          "stockDate": "2022-10-09"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 140.42,
+        "purchaseDate": "2022-10-09",
+        "noOfShares": 2.848597065945022,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.848597065945022,
+            "price": 140.42,
+            "stockDate": "2022-10-09"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.848597065945022,
+          "price": 140.42,
+          "stockDate": "2022-10-09"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 100.29,
+        "purchaseDate": "2022-10-19",
+        "noOfShares": 7.976867085452188,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.976867085452188,
+            "price": 100.29,
+            "stockDate": "2022-10-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.976867085452188,
+          "price": 100.29,
+          "stockDate": "2022-10-19"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 115.07,
+        "purchaseDate": "2022-10-19",
+        "noOfShares": 6.9522899104892675,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 6.9522899104892675,
+            "price": 115.07,
+            "stockDate": "2022-10-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 6.9522899104892675,
+          "price": 115.07,
+          "stockDate": "2022-10-19"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 143.86,
+        "purchaseDate": "2022-10-19",
+        "noOfShares": 2.7804810232170163,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.7804810232170163,
+            "price": 143.86,
+            "stockDate": "2022-10-19"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.7804810232170163,
+          "price": 143.86,
+          "stockDate": "2022-10-19"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 94.66,
+        "purchaseDate": "2022-10-29",
+        "noOfShares": 8.451299387280795,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 8.451299387280795,
+            "price": 94.66,
+            "stockDate": "2022-10-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 8.451299387280795,
+          "price": 94.66,
+          "stockDate": "2022-10-29"
+        }
+      },
+      {
+        "ticker": "AMZN",
+        "purchasePrice": 102.44,
+        "purchaseDate": "2022-10-29",
+        "noOfShares": 7.809449433814916,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 7.809449433814916,
+            "price": 102.44,
+            "stockDate": "2022-10-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 7.809449433814916,
+          "price": 102.44,
+          "stockDate": "2022-10-29"
+        }
+      },
+      {
+        "ticker": "AAPL",
+        "purchasePrice": 153.34,
+        "purchaseDate": "2022-10-29",
+        "noOfShares": 2.6085822355549757,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 2.6085822355549757,
+            "price": 153.34,
+            "stockDate": "2022-10-29"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 2.6085822355549757,
+          "price": 153.34,
+          "stockDate": "2022-10-29"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-01"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-01"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-07-01"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-11"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-11"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-07-11"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-21"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-21"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-07-21"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-31"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-07-31"
+      },
+      {
+        "totalMoneyInvested": 407.00000000000006,
+        "investmentDate": "2022-07-31"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-10"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-10"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-08-10"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-20"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-20"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-08-20"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-30"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-08-30"
+      },
+      {
+        "totalMoneyInvested": 406.99999999999994,
+        "investmentDate": "2022-08-30"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-09"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-09"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-09-09"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-19"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-19"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-09-19"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-29"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-09-29"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-09-29"
+      },
+      {
+        "totalMoneyInvested": 807.0000000000001,
+        "investmentDate": "2022-10-09"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-10-09"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-10-09"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-10-19"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-10-19"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-10-19"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-10-29"
+      },
+      {
+        "totalMoneyInvested": 807.0,
+        "investmentDate": "2022-10-29"
+      },
+      {
+        "totalMoneyInvested": 407.0,
+        "investmentDate": "2022-10-29"
+      }
+    ]
+  },
+  "PF2Inflexible": {
+    "name": "PF2Inflexible",
+    "flexiblePortfolio": false,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.99,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 10.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 10.0,
+          "price": 98.99,
+          "stockDate": "2022-11-16"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 982.9,
+        "investmentDate": "2022-11-16"
+      }
+    ]
+  },
+  "sunni": {
+    "name": "sunni",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "NFLX",
+        "purchasePrice": 285.54,
+        "purchaseDate": "2022-11-25",
+        "noOfShares": 5.0,
+        "name": "Netflix Inc",
+        "description": "Netflix, Inc. is an American over-the-top content platform and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company\u0027s primary business is a subscription-based streaming service offering online streaming from a library of films and television series, including those produced in-house.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TRADE \u0026 SERVICES",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 285.54,
+            "stockDate": "2022-11-25"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 285.54,
+          "stockDate": "2022-11-25"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 97.8,
+        "purchaseDate": "2022-11-20",
+        "noOfShares": 5.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 97.8,
+            "stockDate": "2022-11-20"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 97.8,
+          "stockDate": "2022-11-20"
+        }
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 1420.7,
+        "investmentDate": "2022-11-26"
+      },
+      {
+        "totalMoneyInvested": 482.0,
+        "investmentDate": "2022-11-20"
+      }
+    ]
+  },
+  "PF3Flexible": {
+    "name": "PF3Flexible",
+    "flexiblePortfolio": true,
+    "stocks": [
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.99,
+        "purchaseDate": "2022-11-16",
+        "noOfShares": 5.0,
+        "name": "Alphabet Inc Class C",
+        "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world\u0027s fourth-largest technology company by revenue and one of the world\u0027s most valuable companies.",
+        "exchange": "NASDAQ",
+        "currency": "USD",
+        "country": "USA",
+        "sector": "TECHNOLOGY",
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.99,
+            "stockDate": "2022-11-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.99,
+          "stockDate": "2022-11-16"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 100.53,
+        "purchaseDate": "2022-10-20",
+        "noOfShares": 15.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 15.0,
+            "price": 100.53,
+            "stockDate": "2022-10-20"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 15.0,
+          "price": 100.53,
+          "stockDate": "2022-10-20"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 104.93,
+        "purchaseDate": "2022-10-25",
+        "noOfShares": -10.0,
+        "purchaseDetailsList": [],
+        "sellDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 104.93,
+            "stockDate": "2022-10-25"
+          }
+        ]
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 90.5,
+        "purchaseDate": "2022-11-01",
+        "noOfShares": -5.0,
+        "purchaseDetailsList": [],
+        "sellDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 90.5,
+            "stockDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 86.7,
+        "purchaseDate": "2022-11-05",
+        "noOfShares": 15.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 15.0,
+            "price": 86.7,
+            "stockDate": "2022-11-05"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 15.0,
+          "price": 86.7,
+          "stockDate": "2022-11-05"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.73,
+        "purchaseDate": "2022-11-11",
+        "noOfShares": -2.0,
+        "purchaseDetailsList": [],
+        "sellDetailsList": [
+          {
+            "noOfShares": 2.0,
+            "price": 96.73,
+            "stockDate": "2022-11-11"
+          }
+        ]
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.73,
+        "purchaseDate": "2022-11-13",
+        "noOfShares": 12.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 12.0,
+            "price": 96.73,
+            "stockDate": "2022-11-13"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 12.0,
+          "price": 96.73,
+          "stockDate": "2022-11-13"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 103.63,
+        "purchaseDate": "2022-09-16",
+        "noOfShares": 15.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 15.0,
+            "price": 103.63,
+            "stockDate": "2022-09-16"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 15.0,
+          "price": 103.63,
+          "stockDate": "2022-09-16"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 100.01,
+        "purchaseDate": "2022-09-21",
+        "noOfShares": 25.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 25.0,
+            "price": 100.01,
+            "stockDate": "2022-09-21"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 25.0,
+          "price": 100.01,
+          "stockDate": "2022-09-21"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.81,
+        "purchaseDate": "2022-09-26",
+        "noOfShares": 5.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.81,
+            "stockDate": "2022-09-26"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.81,
+          "stockDate": "2022-09-26"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 96.15,
+        "purchaseDate": "2022-10-01",
+        "noOfShares": 45.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 55.0,
+            "price": 96.15,
+            "stockDate": "2022-10-01"
+          }
+        ],
+        "sellDetailsList": [
+          {
+            "noOfShares": 10.0,
+            "price": 96.15,
+            "stockDate": "2022-10-01"
+          }
+        ],
+        "lastPurchaseDetails": {
+          "noOfShares": 55.0,
+          "price": 96.15,
+          "stockDate": "2022-10-01"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 102.24,
+        "purchaseDate": "2022-10-06",
+        "noOfShares": 21.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 21.0,
+            "price": 102.24,
+            "stockDate": "2022-10-06"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 21.0,
+          "price": 102.24,
+          "stockDate": "2022-10-06"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 98.05,
+        "purchaseDate": "2022-10-11",
+        "noOfShares": 5.0,
+        "purchaseDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 98.05,
+            "stockDate": "2022-10-11"
+          }
+        ],
+        "sellDetailsList": [],
+        "lastPurchaseDetails": {
+          "noOfShares": 5.0,
+          "price": 98.05,
+          "stockDate": "2022-10-11"
+        }
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 97.18,
+        "purchaseDate": "2022-10-15",
+        "noOfShares": -40.0,
+        "purchaseDetailsList": [],
+        "sellDetailsList": [
+          {
+            "noOfShares": 40.0,
+            "price": 97.18,
+            "stockDate": "2022-10-15"
+          }
+        ]
+      },
+      {
+        "ticker": "GOOG",
+        "purchasePrice": 99.17,
+        "purchaseDate": "2022-09-25",
+        "noOfShares": -5.0,
+        "purchaseDetailsList": [],
+        "sellDetailsList": [
+          {
+            "noOfShares": 5.0,
+            "price": 99.17,
+            "stockDate": "2022-09-25"
+          }
+        ]
+      }
+    ],
+    "investmentDetailsList": [
+      {
+        "totalMoneyInvested": 487.95,
+        "investmentDate": "2022-11-16"
+      },
+      {
+        "totalMoneyInvested": 1500.95,
+        "investmentDate": "2022-10-20"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-10-25"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-11-01"
+      },
+      {
+        "totalMoneyInvested": 1293.5,
+        "investmentDate": "2022-11-05"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-11-11"
+      },
+      {
+        "totalMoneyInvested": 1153.76,
+        "investmentDate": "2022-11-13"
+      },
+      {
+        "totalMoneyInvested": 1547.4499999999998,
+        "investmentDate": "2022-09-16"
+      },
+      {
+        "totalMoneyInvested": 2493.25,
+        "investmentDate": "2022-09-21"
+      },
+      {
+        "totalMoneyInvested": 487.05,
+        "investmentDate": "2022-09-26"
+      },
+      {
+        "totalMoneyInvested": 5281.25,
+        "investmentDate": "2022-10-01"
+      },
+      {
+        "totalMoneyInvested": 2140.04,
+        "investmentDate": "2022-10-06"
+      },
+      {
+        "totalMoneyInvested": 483.25,
+        "investmentDate": "2022-10-11"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-10-01"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-10-15"
+      },
+      {
+        "totalMoneyInvested": -7.0,
+        "investmentDate": "2022-09-25"
+      }
+    ]
+  }
+}
